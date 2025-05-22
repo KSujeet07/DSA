@@ -33,11 +33,11 @@ void nextPermutation(vector<int> &nums){
     return;
 }
 int main(){
-    vector<int> nums1();
-    nums1.push_back(1);
-    nums1.push_back(3);
-    nums1.push_back(4);
-    nums1.push_back(2);
+    vector<int> nums();
+    nums.push_back(1);
+    nums.push_back(3);
+    nums.push_back(4);
+    nums.push_back(2);
 
     for(int i =0 ;i<nums.size() ;i++){
         cout<<nums[i]<<" "
