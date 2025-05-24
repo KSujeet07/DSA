@@ -26,7 +26,7 @@ int main()
         }
         else {
             for(int i=0; i<m; i++){
-                cout<<a[i][j]<<" ";3
+                cout<<a[i][j]<<" ";
             }
         }
     }
